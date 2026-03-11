@@ -9,6 +9,7 @@ This project is designed to analyze the purpose of SEIM tool with Wazuh to know 
 - Log alert: With kali linus, we have used it to login so that log alert can be seen on wazuh dashboard alert system
 - ssh failed login: These prompt helps to know whether any multiple failed login is happening or not and to notify the observer
 - system auth alert: With these one can identify whether wazuh is collecting logs, the SEIM is parsing authentication events and alerts are being generated and indexed
+- final alert dashboard: This screenshot represents multiple alerts showing in the dashboard
 
 ## Installation
 These whole lab project is done on a oracle virtualbox with all virtual os
