@@ -13,6 +13,3 @@ This project is designed to analyze the purpose of SEIM tool with Wazuh to know 
 
 ## Installation
 These whole lab project is done on a oracle virtualbox with all virtual os
-
-## Experiment Screenshots
-!log-alert.png
